@@ -1,5 +1,5 @@
 
-# NANDs-to-DIV8
+# NANDs to DIV8
 
 POC that NAND gates achieves [functional completeness](https://en.wikipedia.org/wiki/Functional_completeness) and can be used to build any complex binary function. In this example, a circuit calculating 8-bits integer division is built from 1720 NANDs gates.
 
